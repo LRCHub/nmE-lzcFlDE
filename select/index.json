@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "残り香",
   "base_artist": "4na",
-  "createdAt": "2026-02-10T15:47:17.426760Z",
+  "createdAt": "2026-03-26T13:27:09.153330Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -61,12 +61,29 @@
       "path": "select/07_残り香_宇多田光.txt"
     },
     {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nokoriga 「残り香」",
+      "artist": "Hikaru Utada",
+      "has_synced": false,
+      "path": "select/08_Nokoriga_「残り香」_Hikaru_Utada.txt"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "残り香",
       "artist": "4na",
       "has_synced": false,
       "path": "select/pl_01_残り香_4na.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "残り香",
+      "artist": "4na",
+      "has_synced": false,
+      "path": "select/localdb_01_残り香_4na.txt",
+      "repo_name": "nmE-lzcFlDE"
     }
   ]
 }
